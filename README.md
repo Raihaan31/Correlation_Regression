@@ -1,3 +1,8 @@
+DATE:26-10-2024
+EXPNO: 01 
+NAME : R RAIHAAN AHMED 
+REF NO: 24010543
+
 # Correlation and regression for data analysis
 # Aim : 
 
