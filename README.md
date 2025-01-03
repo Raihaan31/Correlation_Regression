@@ -1,5 +1,5 @@
 DATE:26-10-2024
-EXPNO: 01 
+EXPNO: 03
 NAME : R RAIHAAN AHMED 
 REF NO: 24010543
 
@@ -27,8 +27,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```py
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : R Raihaan Ahmed
+Register number : 24010543
 import numpy as np
 import math
 import matplotlib.pyplot as plt
